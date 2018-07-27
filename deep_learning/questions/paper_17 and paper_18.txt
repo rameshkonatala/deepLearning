@@ -1,0 +1,31 @@
+Paper 17:
+
+Attention relieves burden of computational expense by focusing on certain parts of the image space which is relevant for caption generation. which attention model has lesser computational effort?
+
+options
+
+a) Hard attention
+b) Soft attention
+c) Both reduce computational effort equally
+d) can't say
+
+Answer
+
+option a
+
+
+Paper 18:
+
+Which of the following is NOT True?
+
+
+options
+
+a) Casual convolutions helps to preserve the ordering the input.
+b) Dilation helps in increasing the receptive filed of the network to vary exponentially with the depth.
+c) Training time of wavenet is relavely high compared to a common RNN's.
+d) One of the disadvantages of the wavenet is that it takes relatively longer time to generate output.
+
+
+Answer
+option c

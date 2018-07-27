@@ -1,0 +1,29 @@
+Paper 23:
+
+Which of the following is NOT True?
+
+options
+
+a) The drawback of having a smaller bottleneck is that only smaller information content can be expressed. 
+b) Domain gap is the gap between the input data during unsupervised pre-training and testing time.
+c) In Split brain autoencoders the split across the channel dimension.
+d) All of the above are True.
+
+Answer
+
+option d
+
+
+Paper 24:
+Which of the following is NOT True?
+
+
+options
+
+a) There is no difference between individual and random linear combination of high level units.  
+b) Networks that generalize well are robust to small perturbations in the input.
+c) Networks can be made more robust to small perturbations by training them with adverserial examples. 
+d) The adversarial examples generalize well to different architectures trained on different data subsets.
+
+Answer
+option b

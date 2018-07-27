@@ -1,0 +1,32 @@
+Paper 13:
+
+Lets say our aim is to maximize the following ratio (accuracy of network/time taken to design) for a given neural network designing task. Which approach leads to maximization of this ratio?
+
+
+options
+
+a) Fast search for better architecture using random weights with no training.
+b) Selecting a random architecture with unsupervised pretraining and finetuning. 
+c) Fast search for better architecture using random weights with training(say 10000 iterations).
+d) None of the above
+
+
+Answer
+option a
+
+
+
+Paper 14:
+
+Which of the following is not True
+
+options
+
+a) Switch-Curriculum is a less powerful option to improve the network as there is a possibility that network might lose some of the concepts learned upto that moment(i.e when switching happens). 
+b) Anti curriculum strategy might perform worser than non regularize network.
+c) The performance of curriculum dropout strategy is loosely attributed to the fact that overfitting caused by excessive co-adaptations of neurons appear only after a while in the learning process. 
+d) All of the above are True.
+
+Answer
+
+option d

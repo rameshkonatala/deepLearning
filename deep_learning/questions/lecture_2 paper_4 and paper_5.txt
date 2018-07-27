@@ -1,0 +1,49 @@
+
+
+Lecture 2
+
+Which of the following is NOT the reason why we use signoid function for logistic regression?
+
+options
+
+a) It is a squashing function, which maps the whole output axis into a finite interval[0,1].
+b) It is a differentiable function allowing to optimize the function through gradient descent.
+c) Through sigmoid you are actually introducing non linearlity into the model which helps in conveying more sophisticated models. 
+d) Using sigmoid function reduces the computational costs.
+
+Answer:
+
+option d
+
+
+Paper - 4 
+
+Which of the following best describes "Fine grain recognition"?
+
+options
+
+a) classifying a dataset of [birds, dogs, plants]
+b) classifying a dataset of [subspecies of birds]
+c) classyfying a dataset of [indoor scenes]
+d) all of the above
+
+Answer:
+
+option b
+
+Paper - 5
+
+Which of the following is NOT true?
+
+options
+
+a) Normal gradient descent algorithm is observed to have a linear convergence to the optimal solution.
+b) Second order gradient descent algorithm is observed to have a quadratic convergence to the optimal solution
+c) It is preferable to use SGD approach on larger datasets to reduce the computational efforts involved. 
+d) It is observed that ASGD approaches optimal expected risk slower than SGD or SGDQN methods.
+
+Answer: 
+
+option d
+
+

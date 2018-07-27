@@ -1,0 +1,13 @@
+lecture 8:
+
+Which of the following statements is NOT True?
+a) With unsupervised learning, you don’t have the ground truth labels.
+b) It is capable of generating new data samples.
+c) The loss function of an autoencoder minimizes difference between input label and output label. 
+d) It can learn compression to store large datasets.
+
+Answer
+
+option c
+
+

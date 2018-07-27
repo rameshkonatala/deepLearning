@@ -1,0 +1,31 @@
+Paper 15:
+
+Which of the following is not True
+
+options
+
+a) The pooling layers in a CNN reduce resolution of input feature maps.
+b) In the Scattering Network the choice of local and global invariances are tailored to the type of images specifically.
+c) Pre-training on larger datasets provides a better starting point for learning as it provides knowledge about properties inherent to all natural images.
+d) In RFNN polynomials upto infinite order are considered as higher order basis functions contain deeper visual information. 
+
+Answer
+
+option d
+
+
+Paper 16:
+
+Which of the following is NOT True?
+
+
+options
+
+a) Point segmentation requires combination of both local and global knowledge of the points.
+b) A mini-network consisting of an affine transformation matrix is used to account for invariancy to geometric transformations in semantic labeling of a rigid body. 
+c) Space and time complexity of PointNet algorithm is O(N) making it more scalable.
+d) PointNet algorithm is not invariant to object transformations within the point cloud. 
+
+
+Answer
+option d

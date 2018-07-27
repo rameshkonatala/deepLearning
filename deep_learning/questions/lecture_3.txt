@@ -1,0 +1,12 @@
+lecture 3:
+
+What are general limitations of back propagation rule?
+a) local minima problem
+b) slow convergence
+c) scaling
+d) all of the mentioned
+
+Answer
+
+option d
+

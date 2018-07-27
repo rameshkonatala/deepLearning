@@ -1,0 +1,29 @@
+Paper 21:
+
+Which of the following is NOT True?
+
+options
+
+a) Drawbacks of Bag of words is that it does not preserve the semantics of the words.
+b) Paragraph vector method requires combining word vecctors through parse trees.
+c) The paragraph token acts as a memory like the topic of the paragraph which helps in predicting words. 
+d) All of the above are True.
+
+Answer
+
+option b
+
+
+Paper 22:
+Which of the following is NOT True with respect to cycle consistent Adverserial networks?
+
+
+options
+
+a) The network is cycle consistent.  
+b) The network does not need any unlabelled data.
+c) The network do not need the input and output to lie in the same low dimensional embedding space. 
+d) The network does not perform well for extreme geometric transformations.
+
+Answer
+option b

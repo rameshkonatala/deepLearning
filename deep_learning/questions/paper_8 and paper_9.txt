@@ -1,0 +1,32 @@
+Paper 8:
+
+Why is a Spatial Transformer Network preferred for classification of images?
+
+
+options
+
+a) To reduce the geometric variations inside the data
+b) Traditional CNN´s are not invariant to larger transformations
+c) As it transforms data to a normalized space expected by the subsequent layers
+d) All of the above
+
+Answer
+
+option d
+
+
+
+Paper 9:
+
+If we use a traditional CNN for semantic segmentation the output is found to be coarse? Which reason best suits this phenomenon
+
+options
+
+a) The CNN´s cannot support only image classification but not semantic segmentation.
+b) Max pooling destroys information in CNN thus inducing coarseness in the output for semantic segmentation.
+c) The output dimensions of network are gradually reduced by subsampling causing coarseness in the semantic segmentation.
+d) None of these
+
+Answer
+
+option c

@@ -1,0 +1,12 @@
+lecture 6:
+
+Which of the following statements is NOT True?
+a) Effect of Regularization depends on the size of datasets available.
+b) Regularization serves as a way to improve generalization. 
+c) Downside of using dropout is that it introduces another hyperparameter/s to tune.  
+d) A combination of regularization techniques always yield better results in the generalization of the model. 
+
+Answer
+
+option d
+

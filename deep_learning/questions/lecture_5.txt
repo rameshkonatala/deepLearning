@@ -1,0 +1,12 @@
+lecture 5:
+
+Which of the following statements about Adam is False?
+a) The learning rate hyperparameter ´alpha´ in Adam usually needs to be tuned.
+b) We usually use “default” values for the hyperparameters β1,β2 and ε in Adam 
+c) Adam should be used with batch gradient computations, not with mini-batches.
+d) Adam combines the advantages of RMSProp and momentum
+
+Answer
+
+option c
+

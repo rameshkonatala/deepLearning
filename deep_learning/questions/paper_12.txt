@@ -1,0 +1,17 @@
+Paper 1:
+
+Which of the following statements is not true
+
+options
+
+a) Adam can be viewed as a combination of RMSprop and momentum
+b) Nesterov accelerated gradient involves calculation of  approximate future position of our parameters.
+c) For solving progressively harder problems it is a good idea to shuffle the training data after every epoch. 
+d) For deeper neural networks adaptive learning methods are helpful to achieve faster convergence rates. 
+
+Answer
+
+option c
+
+To solve progressively harder problems, supplying the training examples in a meaningful order may actually lead to improved performance and better
+convergence.

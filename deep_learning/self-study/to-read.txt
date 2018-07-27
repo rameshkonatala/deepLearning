@@ -1,0 +1,18 @@
+Spectrogram neural nets for audio
+
+http://rll.berkeley.edu/deeprlcourse/
+https://www.youtube.com/watch?v=8jQIKgTzQd4&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX
+http://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing
+
+
+Deep reinforcement learning
+One shot learning
+
+
+
+
+
+
+Ideas
+
+- train shallow network > get parameters > add next layer > initialize random parameters for this layer and pretrained parameters for other layers > train

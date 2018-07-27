@@ -1,0 +1,30 @@
+Paper 19:
+
+In the paper it is mentioned that the network learnt quote sentences within the data. Which of the follwing networks can recognize this quote sentence structure within the data?
+
+options
+
+a) Only Vanilla RNN
+b) LSTM
+c) Both LSTM and Vanilla RNN
+d) can't say
+
+Answer
+
+option b
+
+
+Paper 20:
+Which of the following is NOT True?
+
+
+options
+
+a) 3D convnets create hierarchical representations of spatio-temporal data. 
+b) The basic convNet + LSTM approach suffers from lack of temporal structure.
+c) 3D convnets suffers from problem of more parameters owing to additional kernel dimension.
+d) All are True
+
+
+Answer
+option d

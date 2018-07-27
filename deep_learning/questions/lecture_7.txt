@@ -1,0 +1,12 @@
+lecture 7:
+
+Which of the following statements is NOT True?
+a) RNN's are susceptible to vanishing and exploding gradient problem. 
+b) RNN's are generally used for sequential data.
+c) RNN's can be considered as networks that store memory of the sequential data.
+d) Number of parameters for RNN's are generally more compared to that of a CNN network.
+
+Answer
+
+option d
+

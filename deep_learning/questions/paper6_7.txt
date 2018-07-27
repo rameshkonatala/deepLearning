@@ -1,0 +1,31 @@
+
+Paper - 6
+
+Which network architecure among the mentioned 4 captures more information in the initial layers(say layer 1,2)?
+
+options
+
+a) filter size 3x3; stride of 2
+b) filter size 7x7; stride of 4
+c) filter size 3x3; stride of 4
+d) filter size 7x7; stride of 2
+
+Answer:
+
+option a
+
+Paper - 7
+
+Which of the following is NOT true?
+
+options
+
+a) YOLO is extremely fast at test time since it only requires a single network evaluation, unlike classifier-based methods.
+b) YOLO struggles to generalize to objects in new or unusual aspect ratios or configurations.
+c) The loss function adopted in YOLO is invariant to the size of the bounding boxes.
+d) Fast YOLO uses a neural network with fewer convolutional layers and fewer filters.
+
+Answer: 
+
+option c
+

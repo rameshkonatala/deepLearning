@@ -1,0 +1,32 @@
+Paper 10:
+
+Which of the following is not True?
+
+
+options
+
+a) Residual networks enable very deep networks.
+b) While it is observed that error might increase as we increase no. of layers in case of a conventional neural network, residual networks might mitigate this problem when no. of layers get too deep. 
+c) It is observed that the paths through the residual network that contribute gradient during training are longer than expected
+d) It is observed that removing residual modules mostly removes long paths.
+
+
+Answer
+option c
+
+
+
+Paper 11:
+
+Which of the following is not True
+
+options
+
+a) Capsule networks achieved better results compared to convnets when applied on overlapping MNIST datasets. 
+b) The activities of the neurons within an active capsule represent the various properties of a particular entity that is present in the image.
+c) It is observed Robustness(capsule network)<Robustness(ConvNets) for MNIST data
+d) None of these
+
+Answer
+
+option c

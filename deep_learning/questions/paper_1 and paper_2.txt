@@ -1,0 +1,61 @@
+Lecture 1:
+
+In a machine learning model, the gradient of the function is found to be in the direction of vector a. To reduce the error(cost) function parameters are adjusted such that we move in :
+ 
+options
+
+a) the direction of a
+b) opposite direction of a
+c) It does not depend on a
+d) None of these
+
+Answer
+ 
+option b
+
+
+
+
+
+Paper 1:
+
+In a machine learning model a learner creates a classifier which has following properties in the mentioned two cases :
+
+case 1)  Classifier is 100% accurate on training data but only 50% accurate on test data. 
+case 2)  Classifier is 30% accurate on training data and 30% accurate on test data. 
+
+Which is of the following is true with the mentioned cases
+
+options
+
+a) case 1 is an example for low bias/high variance and case 2 is an example for high bias/low variance 
+b) case 1 is an example for low bias/high variance and case 2 is an example for low bias/high variance
+c) case 1 is an example for low bias/low variance and case 2 is an example for high bias/high variance
+d) case 1 is an example for high bias/high variance and case 2 is an example for low bias/low variance
+
+Answer)
+
+option a
+
+
+
+
+
+
+
+
+
+Paper 2:
+
+Which of the following statements is not true
+
+options
+
+a) In neural networks the gradients computation is enabled though calculating backprogration algorithm. 
+b) Deep neural networks exploit the property that many natural signals are compositional hierarchies, in which higher-level features are obtained by composing lower-level ones.
+c) Recurrent neural networks exhibit dynamic temporal behaviour of a time sequence as hidden units implicitly contains information about the history of all the past elements of the sequence.
+d) Deep learning involves computing input-output mappings which are linear in nature.
+
+Answer
+
+option d

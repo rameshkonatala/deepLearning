@@ -1,0 +1,16 @@
+Paper 1:
+
+Which of the following statements is not true
+
+options
+
+a) Deep learning networks make use of convolution so that property of 'translational invariance' is captured
+b) Deep learing  methods are transparent i.e, human users will be able to understand how a given deep learning system made a given decision. 
+c) Deep learning systems are less accurate when test set data varies significantly with train set data
+d) Unsupervised learning can be achieved without labelled data
+
+Answer
+
+option b
+
+Deep learning methods are not transarent enough at this stage. 
